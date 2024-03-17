@@ -1,3 +1,5 @@
+<img src="https://github.com/onandiskeen/Minesweeper/assets/46636543/b3a43983-2b59-448f-8a58-dce935bccd50" alt="java-logo-1" width="100" height="100"> 
+
 # Esports Tracker
 
 Introducing "Esports Tracker", a sleek and intuitive iOS app built with Swift that caters to the burgeoning world of competitive gaming. Designed to provide enthusiasts with comprehensive insights into Esports teams and players, Esports Tracker offers a seamless user experience across all screen sizes.
