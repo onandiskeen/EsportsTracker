@@ -28,3 +28,7 @@ Click logo above for API reference page!
 #### Responsive design works on all screen sizes
 
 ![GIF Recording 2024-03-17 at 4 38 35 PM](https://github.com/onandiskeen/Minesweeper/assets/46636543/903e68c1-8709-41a3-93ec-c5fd059e4a13)
+
+#### Filter teams by game
+
+![GIF Recording 2024-03-17 at 6 08 53 PM](https://github.com/onandiskeen/EsportsTracker/assets/46636543/d338f2b3-22d5-4401-9135-ce18ba6769e9)
