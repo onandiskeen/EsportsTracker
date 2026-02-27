@@ -4,6 +4,9 @@
 
 Introducing "Esports Tracker", a sleek and intuitive iOS app built with Swift that caters to the burgeoning world of competitive gaming. Designed to provide enthusiasts with comprehensive insights into Esports teams and players, Esports Tracker offers a seamless user experience across all screen sizes.
 
+## Video Link
+
+https://youtu.be/VNGQtwadztE
 
 ## Authors
 
